@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natan Teklie</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
 <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="natan-teklie" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natan-teklie&label=Profile%20views&color=0e75b6&style=flat" alt="natan-teklie" /> </p>
