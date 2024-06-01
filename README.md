@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natan Teklie</h1>
-<h3 align="center">I am a Full Stack Developer with a passion for building beautiful and user-friendly websites.</h3>
+<p align="center">I am a Full Stack Developer with a passion for creating innovative and user-friendly web applications. My skills include proficiency in various programming languages such as JavaScript, Python, and HTML/CSS, as well as experience with popular frameworks such as React and Node.js. I am always eager to learn new technologies and stay up-to-date with industry trends. I am a problem-solver at heart and strive to create elegant solutions for complex challenges.</p>
 
 <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="natan-teklie" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natan-teklie&label=Profile%20views&color=0e75b6&style=flat" alt="natan-teklie" /> </p>
